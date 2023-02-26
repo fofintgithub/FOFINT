@@ -173,7 +173,7 @@ sup {
 }
 
 a {
-  color: #ff0000;
+  color:#FFBF00;
   text-decoration: none;
   background-color: transparent;
 }
@@ -4937,7 +4937,7 @@ input[type="button"].btn-block {
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link:focus {
-  color: #ff0000;
+  color:#FFBF00;
 }
 
 .navbar-light .navbar-nav .nav-link.disabled {
@@ -4948,7 +4948,7 @@ input[type="button"].btn-block {
 .navbar-light .navbar-nav .active>.nav-link,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #ff0000;
+  color:#FFBF00;
 }
 
 .navbar-light .navbar-toggler {
@@ -4988,7 +4988,7 @@ input[type="button"].btn-block {
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link:focus {
-  color: #ff0000;
+  color:#FFBF00;
 }
 
 .navbar-expand-lg a.nav-link.donate.btn.btn-style:hover {
@@ -14201,8 +14201,8 @@ body p {
   font-weight: 700;
   transition: 0.3s ease-in;
   border-radius: 4px;
-  background-color: #ff0000;
-  border-color: #ff0000;
+  background-color:#FFBF00;
+  border-color:#FFBF00;
 }
 
 .btn-style:hover {
@@ -14214,20 +14214,20 @@ body p {
 
 .transparent-btn {
   background: #fff;
-  color: #ff0000;
+  color:#FFBF00;
   border: #fff;
 }
 
 .transparent-btn:hover {
-  background: #ff0000;
+  background:#FFBF00;
   color: #fff;
-  border: #ff0000;
+  border:#FFBF00;
 }
 
 a.read {
   font-size: 17px;
   padding: 0;
-  border-bottom: 2px solid #ff0000;
+  border-bottom: 2px solid#FFBF00;
   color: #101923;
   font-weight: 600;
   border-radius: 0;
@@ -14237,7 +14237,7 @@ a.read {
 }
 
 .read:hover {
-  color: #ff0000;
+  color: #FFBF00;
   transition: 0.3s ease-in-out;
 }
 
@@ -14404,8 +14404,8 @@ p.title-para {
   font-weight: 700;
   transition: 0.3s ease-in;
   border-radius: 4px;
-  background-color: #ff0000;
-  border-color: #ff0000;
+  background-color: #FFBF00;
+  border-color: #FFBF00;
 }
 
 
@@ -14504,7 +14504,7 @@ nav ul li a:hover {
 }
 
 .nav-fixed .navbar-expand-lg .navbar-nav li.nav-item .nav-link:hover {
-  color: #ff0000;
+  color: #FFBF00;
 }
 
 .nav-fixed .navbar-expand-lg .navbar-brand {
@@ -14512,7 +14512,7 @@ nav ul li a:hover {
 }
 
 .nav-fixed .navbar-expand-lg .navbar-brand span.fa {
-  color: #ff0000;
+  color: #FFBF00;
 }
 
 /* .nav-fixed .navbar-expand-lg .navbar-brand span.sub-logo { */
@@ -14837,7 +14837,7 @@ nav ul li a:hover {
 .w3l-main-slider .play-view span.video-play-icon:hover {
   transform: scale(1.1);
   transition: 0.3s ease-in-out;
-  background-color: #ff0000;
+  background-color: #FFBF00;
   border: 2px solid rgba(255, 0, 0, 0.4588235294117647);
 }
 
@@ -15719,7 +15719,7 @@ div#small-dialog3 iframe {
   outline: none;
   box-shadow: none;
   transition: 0.3s ease-in-out;
-  color: #ff0000;
+  color: #FFBF00;
 }
 
 .owl-theme .owl-nav [class*=owl-]:focus,
@@ -15773,7 +15773,7 @@ button.owl-next {
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-  background: #ff0000;
+  background: #FFBF00;
 }
 
 /*--/testimonials--*/
@@ -15801,7 +15801,7 @@ button.owl-next {
 
 .owl-testimonial.owl-carousel.owl-theme .owl-dots .owl-dot.active span,
 .owl-testimonial.owl-carousel.owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #ff0000;
+  background-color:#FFBF00;
   opacity: 1;
 }
 
@@ -15829,7 +15829,7 @@ button.owl-next {
 
 .owl-testimonial.owl-carousel.owl-theme .owl-dots .owl-dot.active span,
 .owl-testimonial.owl-carousel.owl-theme .owl-dots .owl-dot:hover span {
-  background: #ff0000;
+  background:#FFBF00;
   opacity: 0.8;
 }
 
@@ -15860,7 +15860,7 @@ button.owl-next {
   line-height: 80px;
   transition: all 0.3s ease;
   border-radius: 100%;
-  color: #ff0000;
+  color:#FFBF00;
   font-size: 26px;
   background: #ffe5e5;
   text-align: center;
@@ -16181,12 +16181,12 @@ button.owl-next {
 .features-4 span.fa.icon-fea4 {
   font-size: 40px;
   margin-bottom: 16px;
-  color: #ff0000;
+  color:#FFBF00;
 }
 
 .features-4 .features4-grid h5 a:hover,
 .features-4 .features4-grid:hover span.fa.icon-fea4 {
-  color: #ff0000;
+  color:#FFBF00;
   transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
@@ -16455,7 +16455,7 @@ button.owl-next {
 }
 
 .w3-services-grids h4.cause-title:hover {
-  color: #ff0000;
+  color: #FFBF00;
   transition: .3s;
   -webkit-transition: .3s;
   -moz-transition: .3s;
@@ -16813,7 +16813,7 @@ button.owl-next {
 }
 
 .w3l-content-4 .content4-icon {
-  color: #ff0000;
+  color:#FFBF00;
   font-size: 30px;
   text-align: center;
 }
@@ -16916,7 +16916,7 @@ button.owl-next {
 
 .w3l-team-main .social-icons-section a:hover {
   color: #fff;
-  background: #ff0000;
+  background:#FFBF00;
 }
 
 .w3l-team-main .team-info {
@@ -17105,7 +17105,7 @@ button.owl-next {
 
 .w3l-contact-11 .form-inner-cont input:focus,
 .w3l-contact-11 .form-inner-cont textarea:focus {
-  border: 1px solid #ff0000;
+  border: 1px solid#FFBF00;
 }
 
 .w3l-contact-11 .form-inner-cont textarea {
@@ -17125,11 +17125,11 @@ button.owl-next {
   font-size: 15px;
   text-align: center;
   color: #fff;
-  background: #ff0000;
+  background:#FFBF00;
   padding: 14px 18px;
   border-radius: 4px;
   transition: 0.3s ease;
-  border: 1px solid #ff0000;
+  border: 1px solid#FFBF00;
   width: 100%;
   margin-top: 15px;
   text-transform: uppercase;
@@ -17260,7 +17260,7 @@ button.owl-next {
 }
 
 .w3l-login .navbar-brand-donate span.sub-logo-donate {
-  color: #ff0000;
+  color:#FFBF00;
 }
 
 .w3l-login .donate-formhny {
@@ -17314,7 +17314,7 @@ button.owl-next {
 }
 
 .w3l-login .infor .container-radio input:checked~.checkmark {
-  background-color: #ff0000;
+  background-color:#FFBF00;
 }
 
 .w3l-login .infor .checkmark:after {
@@ -17363,7 +17363,7 @@ button.owl-next {
 .w3l-login .form-input input:focus,
 .w3l-login .form-input textarea:focus {
   background: #fff;
-  border: 1px solid #ff0000;
+  border: 1px solid#FFBF00;
 }
 
 .w3l-login .social-icons {
@@ -17383,8 +17383,8 @@ button.owl-next {
   font-weight: 700;
   transition: 0.3s ease-in;
   border-radius: 4px;
-  background-color: #ff0000;
-  border-color: #ff0000;
+  background-color:#FFBF00;
+  border-color:#FFBF00;
   width: 100%;
 }
 
@@ -17464,7 +17464,8 @@ button.owl-next {
 }
 
 .w3l-footer-66 h2 a.navbar-brand .sub-logo {
-  color: #ff0000;
+ 
+  color: 	#FFBF00;
 }
 
 .w3l-footer-66 h2 a.navbar-brand span.fa {
@@ -17529,7 +17530,7 @@ button.owl-next {
 }
 
 .w3l-footer-66 ul.social li a:hover {
-  background: #ff0000;
+  background: #FFBF00;
   color: #fff;
   transition: 0.3s ease;
 }
@@ -17666,7 +17667,7 @@ button.owl-next {
 }
 
 .w3l-footer-66 #movetop:hover {
-  background: #ff0000;
+  background:#FFBF00;
   color: #fff;
   opacity: 0.9;
 }
@@ -17678,7 +17679,7 @@ button.owl-next {
 .w3l-footer-66 a:hover,
 .w3l-footer-66 ul.columns li a:hover,
 .w3l-footer-66 .sub-two-right ul li a:hover {
-  color: #ff0000;
+  color:#FFBF00;
   transition: 0.3s ease;
 }
 
@@ -17729,7 +17730,7 @@ button.owl-next {
   font-size: 18px;
   font-weight: 700;
   display: block;
-  background: #ff0000;
+  background:#FFBF00;
   border: 1px solid transparent;
   width: 30%;
   text-transform: capitalize;
